@@ -2,4 +2,9 @@ tech Tools
 mouse
 ram
 all hardwares
+storage capacity
+monitor
+key board
+hard drive
+
 
