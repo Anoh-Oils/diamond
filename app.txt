@@ -6,5 +6,6 @@ storage capacity
 monitor
 key board
 hard drive
-
+dell
+apple
 
